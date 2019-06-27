@@ -1,0 +1,18 @@
+进入file-setting选项，界面设置主要是在appearance和editor
+
+
+appearance 主要是整个ide的主体设置，比如文件管理窗口的颜色，就是软件本身的主题设置
+选择黑色  darlula
+
+
+editor里面的设置，直接font中设置时不行的，default参数不能修改他会要求你在color schemme中设置，相当于个人的主题（于是在color scheme font选项中设置想要的参数）
+scheme  monokai
+use color scheme font instead of the default
+Source Code Pro
+Size 22
+Line spacing 1.2
+
+
+注释设置
+color scheme 中的python
+docstring 就是代码说明文本
